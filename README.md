@@ -11,11 +11,7 @@ A 2-Dimensional representation of an actual 3 x 3 Rubics cube.
   1. Easy to operate.
   2. Simple to understand.
   3. Increases the understanding of 3D shapes on a plane.
-  
-## Images
-  ### Graphical User Interface (GUI)
-  ![GAME INTERFACE](https://github.com/rajdeep099/Rubics_cube/blob/main/normal.PNG)
-  ![GAME INTERFACE](https://github.com/rajdeep099/Rubics_cube/blob/main/scramble.PNG)
+
   
 Our code implements 2 algorithms for solving/finding the shortest path between 2 states in a 2x2x2 Rubik's Cube. We have used Breadth-First-Search (BFS) and Bidirectional BFS.So, Here's a walkthrough of the code.
 
